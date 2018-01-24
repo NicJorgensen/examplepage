@@ -1,0 +1,39 @@
+header{
+    height: 70px;
+    width: 100%;
+    background: rgb(81, 172, 224);
+    text-align: center;
+    font-size: 44px;
+    border: 2px solid black;
+}
+body{
+    background: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    background: rgb(81, 172, 224);
+    height: 100px;
+    width: 100%;
+    border: 2px solid black;
+    margin-top: 100%;
+}
+.article{
+    text-align: center;
+    font-size: 30px;
+    display: inline-block;
+    width: 30%;
+    margin-left: 30%;
+    margin-top: 8px;
+    border-top: 8px solid lightblue;
+}
+.sidebar{
+    display: inline-block;
+    width: 12%;
+    margin-left: 5%;
+    vertical-align: top;
+    padding-top: 20px;
+}
+p{
+    text-align: left;
+    font-size: 15px;
+}
